@@ -1,0 +1,8 @@
+#include
+int()
+ printf()
+ scanf() 
+printf(0)
+scanf()
+int
+ return (*)
